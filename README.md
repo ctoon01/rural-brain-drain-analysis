@@ -14,7 +14,7 @@ Why do some rural counties struggle to retain highly educated residents, and how
 
 * PostgreSQL
 * SQL
-* Python (Pandas)
+* Python (PyCharm)
 * Tableau Public
 * Excel
 * GitHub
