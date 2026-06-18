@@ -38,3 +38,17 @@ States with the lowest average educational attainment among rural counties were 
 
 This regional pattern suggests that educational attainment in rural America is not evenly distributed. Instead, certain regions appear to face persistent structural disadvantages that may contribute to lower levels of educational attainment and reduced economic opportunity.
 
+## Finding #6: Educational Attainment Is Associated With Lower Unemployment
+
+A clear relationship emerged between educational attainment and unemployment rates.
+
+| Education Level | Average Unemployment Rate |
+| --------------- | ------------------------- |
+| Under 20%       | 4.41%                     |
+| 20–30%          | 3.88%                     |
+| 30–40%          | 3.29%                     |
+| 40%+            | 3.03%                     |
+
+Counties with the lowest levels of educational attainment experienced unemployment rates approximately 45% higher than counties with the highest levels of educational attainment.
+
+This finding suggests that educational attainment may play an important role in local labor market outcomes.
