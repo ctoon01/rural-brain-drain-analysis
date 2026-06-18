@@ -4,15 +4,18 @@
 
 Metro counties average 34.72% college degree attainment compared to 27.17% in micropolitan counties and 27.77% in rural counties.
 
+
 ## Finding #2: Unemployment Rates Are Surprisingly Similar
 
 Average unemployment rates were relatively consistent across county types, ranging from 3.65% to 3.79%.
+
 
 ## Finding #3: Highly Educated Rural Counties Are Often Tourism Destinations
 
 Among the most educated rural counties were Pitkin County (Aspen, CO), San Miguel County (Telluride, CO), Teton County (Jackson Hole, WY), Routt County (Steamboat Springs, CO), and Nantucket County (MA).
 
 This suggests that amenity-rich tourism and recreation economies may help rural counties attract and retain highly educated residents.
+
 
 ## Finding #4: Lowest-Educated Rural Counties Are Concentrated in Historically Disadvantaged Regions
 
@@ -27,3 +30,11 @@ Examples include:
 * Hancock County, Georgia (13%)
 
 These counties also tended to exhibit higher unemployment rates than the national average, supporting research that links educational attainment, economic opportunity, and population decline in rural America.
+
+
+## Finding #5: Rural Educational Attainment Varies Significantly by Region
+
+States with the lowest average educational attainment among rural counties were concentrated in the South and Appalachia, including Louisiana, Tennessee, West Virginia, Georgia, Kentucky, Alabama, Arkansas, and Mississippi.
+
+This regional pattern suggests that educational attainment in rural America is not evenly distributed. Instead, certain regions appear to face persistent structural disadvantages that may contribute to lower levels of educational attainment and reduced economic opportunity.
+
