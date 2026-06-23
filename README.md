@@ -1,10 +1,13 @@
 # Rural Brain Drain Analysis
 
-## Overview
+## Project Origins
 
-This project examines how educational attainment and labor market outcomes differ across more than 3,000 U.S. counties.
+This project originated from a sociology research paper I wrote in 2019 titled *Rural America Running: The Outmigration of Rural Youth*. In that paper, I explored how educational attainment, employment opportunities, and urbanization influence migration patterns among rural populations.
 
-Using data from the USDA, U.S. Census Bureau, and Bureau of Labor Statistics, I built a PostgreSQL database that integrates county-level education, employment, and rurality indicators through standardized FIPS-code joins. The goal was to explore whether differences in educational attainment are associated with economic outcomes and to better understand challenges facing rural America.
+Several years later, after learning SQL, PostgreSQL, and Tableau, I revisited the same topic from a data analytics perspective. Rather than relying solely on academic literature, I built a county-level database using USDA, ACS, and BLS data to examine measurable differences in educational attainment and labor market outcomes across the United States.
+
+This project represents the evolution of a social science research question into a data analytics workflow, combining my academic background in Sociology with quantitative analysis and data visualization techniques.
+
 
 **Tools Used:** PostgreSQL, SQL, DBeaver, Tableau Public, Excel, GitHub
 
